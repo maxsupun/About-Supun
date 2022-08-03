@@ -576,6 +576,11 @@ pre code {
   }
 }
 
+@media only screen and (orientation: portrait){
+  body{background-color:black;
+  }
+}
+
 .container-fluid, .container-sm, .container-md, .container-lg, .container-xl {
   width: 100%;
   padding-right: 15px;
