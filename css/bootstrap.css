@@ -41,6 +41,19 @@
   box-sizing: border-box;
 }
 
+.avatar {
+  display: block;
+  border-radius: 200px;
+  box-sizing: border-box;
+  background-color: #DDD;
+  border: 5px solid white;
+}
+
+img {
+  height: 200px;
+  width: 200px
+}
+
 html {
   font-family: sans-serif;
   line-height: 1.15;
