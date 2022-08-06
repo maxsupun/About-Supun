@@ -15,6 +15,23 @@ html {
   display: none;
 }
 
+/* footer section styling */
+footer {
+    background: #111;
+    padding: 15px 23px;
+    color: #fff;
+    text-align: center;
+}
+footer span a {
+    color: hsl(192, 81%, 65%);
+    text-decoration: none;
+}
+footer span a:hover {
+    /* color: hsl(192, 81%, 55%); */
+    opacity: 0.85;
+    transition: 0.5s;
+}
+
 body {
   position: relative;
   font-family: 'Poppins', sans-serif;
